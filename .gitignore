@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Video and large files
+*.mp4
+*.mov
+*.mkv
+*.avi
+
+# Secrets
+.env
+*.key
+*.pem
+id_rsa*
+id_ed25519*
+secrets/
+
+# Editor files
+*.swp
+*.swo
+*~
+
+#kicad
+*-backups/
+*.kicad_prl
+
+*.fp-info-cache
+*.bak
+*.lck~
+*.kicad_prl
