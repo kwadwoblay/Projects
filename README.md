@@ -16,4 +16,4 @@ Each project has its own folder with a README that includes the circuit or setup
 - Breadboard circuits measured with a multimeter
 
 ## Roadmap
-- RC charging run 2 with a different resistor and capacitor
+- RC charging run 2 with a different resistor and capacitor.
